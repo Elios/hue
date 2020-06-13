@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jun 12 02:21:29 PDT 2020
+mina-core-2.0.0-M5.jar>nexus-aliyun=
+mina-core-2.0.0-M5.jar>alimaven=
+mina-core-2.0.0-M5.pom>alimaven=
+mina-core-2.0.0-M5.pom>nexus-aliyun=

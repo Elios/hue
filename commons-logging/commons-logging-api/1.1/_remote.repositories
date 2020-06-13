@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jun 12 02:21:41 PDT 2020
+commons-logging-api-1.1.jar>alimaven=
+commons-logging-api-1.1.pom>alimaven=
+commons-logging-api-1.1.pom>nexus-aliyun=
+commons-logging-api-1.1.jar>nexus-aliyun=

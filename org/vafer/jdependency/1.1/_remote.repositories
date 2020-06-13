@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jun 12 02:23:21 PDT 2020
+jdependency-1.1.jar>alimaven=
+jdependency-1.1.pom>alimaven=
+jdependency-1.1.pom>nexus-aliyun=
+jdependency-1.1.jar>nexus-aliyun=

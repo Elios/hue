@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jun 12 00:27:59 PDT 2020
+junit-3.8.1.pom>nexus-aliyun=
+junit-3.8.1.jar>nexus-aliyun=
+junit-3.8.1.jar>alimaven=
+junit-3.8.1.pom>alimaven=

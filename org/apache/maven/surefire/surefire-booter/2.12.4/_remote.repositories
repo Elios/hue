@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jun 12 02:21:54 PDT 2020
+surefire-booter-2.12.4.pom>nexus-aliyun=
+surefire-booter-2.12.4.jar>nexus-aliyun=
+surefire-booter-2.12.4.jar>alimaven=
+surefire-booter-2.12.4.pom>alimaven=

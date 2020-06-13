@@ -1,0 +1,13 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 24 15:44:46 CST 2020
+http\://www.datanucleus.org/downloads/maven2/.error=
+https\://repository.cloudera.com/content/repositories/third-party/.lastUpdated=1587710326447
+https\://repository.cloudera.com/content/groups/cdh-releases-rcs/.lastUpdated=1587714286176
+http\://download.java.net/maven/2/.lastUpdated=1587710313302
+https\://repository.cloudera.com/content/repositories/snapshots/.lastUpdated=1587710295527
+http\://download.java.net/maven/2/.error=
+http\://www.datanucleus.org/downloads/maven2/.lastUpdated=1587710310354
+https\://repository.cloudera.com/content/repositories/snapshots/.error=
+http\://maven.aliyun.com/nexus/content/repositories/central/.lastUpdated=1587710307898
+http\://maven.aliyun.com/nexus/content/repositories/central/.error=
+https\://repository.cloudera.com/content/repositories/third-party/.error=

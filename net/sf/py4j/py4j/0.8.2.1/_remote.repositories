@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jun 12 02:35:30 PDT 2020
+py4j-0.8.2.1.pom>nexus-aliyun=
+py4j-0.8.2.1.jar>nexus-aliyun=
+py4j-0.8.2.1.jar>alimaven=
+py4j-0.8.2.1.pom>alimaven=

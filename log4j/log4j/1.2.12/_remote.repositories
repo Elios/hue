@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jun 12 02:21:41 PDT 2020
+log4j-1.2.12.jar>alimaven=
+log4j-1.2.12.pom>alimaven=
+log4j-1.2.12.pom>nexus-aliyun=
+log4j-1.2.12.jar>nexus-aliyun=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jun 12 02:36:10 PDT 2020
+maven-common-artifact-filters-3.0.1.pom>nexus-aliyun=
+maven-common-artifact-filters-3.0.1.jar>nexus-aliyun=
+maven-common-artifact-filters-3.0.1.jar>alimaven=
+maven-common-artifact-filters-3.0.1.pom>alimaven=

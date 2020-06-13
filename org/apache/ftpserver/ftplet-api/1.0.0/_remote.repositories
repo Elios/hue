@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jun 12 02:21:29 PDT 2020
+ftplet-api-1.0.0.jar>alimaven=
+ftplet-api-1.0.0.pom>alimaven=
+ftplet-api-1.0.0.pom>nexus-aliyun=
+ftplet-api-1.0.0.jar>nexus-aliyun=

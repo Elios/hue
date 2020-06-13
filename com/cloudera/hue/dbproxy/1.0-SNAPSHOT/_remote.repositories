@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jun 12 02:36:10 PDT 2020
+dbproxy-1.0-SNAPSHOT.pom>=
+dbproxy-1.0-SNAPSHOT.jar>=

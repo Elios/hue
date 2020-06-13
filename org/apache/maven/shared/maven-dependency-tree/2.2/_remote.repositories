@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jun 12 02:23:21 PDT 2020
+maven-dependency-tree-2.2.jar>alimaven=
+maven-dependency-tree-2.2.pom>alimaven=
+maven-dependency-tree-2.2.pom>nexus-aliyun=
+maven-dependency-tree-2.2.jar>nexus-aliyun=

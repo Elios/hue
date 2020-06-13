@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jun 12 02:21:29 PDT 2020
+protobuf-java-2.5.0.pom>alimaven=
+protobuf-java-2.5.0.pom>nexus-aliyun=
+protobuf-java-2.5.0.jar>nexus-aliyun=
+protobuf-java-2.5.0.jar>alimaven=

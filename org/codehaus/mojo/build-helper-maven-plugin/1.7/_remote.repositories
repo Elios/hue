@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jun 12 02:15:40 PDT 2020
+build-helper-maven-plugin-1.7.jar>nexus-aliyun=
+build-helper-maven-plugin-1.7.jar>alimaven=
+build-helper-maven-plugin-1.7.pom>alimaven=
+build-helper-maven-plugin-1.7.pom>nexus-aliyun=

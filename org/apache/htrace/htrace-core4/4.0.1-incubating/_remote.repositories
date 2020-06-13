@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jun 12 02:21:29 PDT 2020
+htrace-core4-4.0.1-incubating.jar>nexus-aliyun=
+htrace-core4-4.0.1-incubating.jar>alimaven=
+htrace-core4-4.0.1-incubating.pom>alimaven=
+htrace-core4-4.0.1-incubating.pom>nexus-aliyun=

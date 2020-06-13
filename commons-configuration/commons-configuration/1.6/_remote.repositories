@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jun 12 02:21:29 PDT 2020
+commons-configuration-1.6.jar>nexus-aliyun=
+commons-configuration-1.6.jar>alimaven=
+commons-configuration-1.6.pom>alimaven=
+commons-configuration-1.6.pom>nexus-aliyun=

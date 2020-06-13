@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 24 14:48:42 CST 2020
+zookeeper-3.4.5-cdh5.5.0.pom>cdh.releases.repo=
+zookeeper-3.4.5-cdh5.5.0.jar>cdh.repo=

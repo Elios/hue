@@ -1,0 +1,15 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 24 14:48:42 CST 2020
+http\://www.datanucleus.org/downloads/maven2/.error=
+https\://repository.cloudera.com/content/repositories/third-party/.lastUpdated=1587710326445
+http\://download.java.net/maven/2/.lastUpdated=1587710313300
+https\://repository.cloudera.com/content/repositories/snapshots/.lastUpdated=1587710295525
+http\://download.java.net/maven/2/.error=
+https\://repository.cloudera.com/content/groups/cdh-releases-rcs/.error=Could not transfer artifact org.apache.zookeeper\:zookeeper\:jar\:3.4.5-cdh5.5.0 from/to cdh.releases.repo (https\://repository.cloudera.com/content/groups/cdh-releases-rcs)\: GET request of\: org/apache/zookeeper/zookeeper/3.4.5-cdh5.5.0/zookeeper-3.4.5-cdh5.5.0.jar from cdh.releases.repo failed
+http\://www.datanucleus.org/downloads/maven2/.lastUpdated=1587710310352
+https\://repository.cloudera.com/content/repositories/snapshots/.error=
+https\://repository.cloudera.com/artifactory/cloudera-repos/.lastUpdated=1587710922746
+@default-cdh.releases.repo-https\://repository.cloudera.com/content/groups/cdh-releases-rcs/.lastUpdated=1587710218089
+http\://maven.aliyun.com/nexus/content/repositories/central/.lastUpdated=1587710307896
+http\://maven.aliyun.com/nexus/content/repositories/central/.error=
+https\://repository.cloudera.com/content/repositories/third-party/.error=
